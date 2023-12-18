@@ -6,7 +6,7 @@ package on.croncero.mediavectoresgitremoto;
 
 /**
  *
- * @author croncero
+ * @author 
  */
 public class MediaVectoresGitRemoto {
 
